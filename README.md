@@ -16,4 +16,6 @@ In this challenge, I built an interactive dashboard to explore the Belly Button 
 N/A
 
 ## Summary
-<img src="/images/Dashboard.jpg" alt="Dashboard">
+<p align="center">
+<img src="images/Dashboard.png" alt="map">
+</p>
